@@ -1,0 +1,7 @@
+{
+  "name": "tesnearmetapp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
