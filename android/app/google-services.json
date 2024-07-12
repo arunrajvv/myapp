@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "162375001909",
+    "firebase_url": "https://appseedbed-297a2-default-rtdb.firebaseio.com",
+    "project_id": "appseedbed-297a2",
+    "storage_bucket": "appseedbed-297a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162375001909:android:d3cd834014f1f099ba4e7c",
+        "android_client_info": {
+          "package_name": "com.appseedbed.nearme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "162375001909-pv3s9kdsdcfkpti4iim3prbhtg9bbvr9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYJLp5oD1bRjwANw-Wy523akvIGA041_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "162375001909-pv3s9kdsdcfkpti4iim3prbhtg9bbvr9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,58 @@
+ion-menu-button {
+  color: var(--ion-color-primary);
+}
+.center{
+  margin-left: auto;
+  margin-right: auto;
+}
+.searchBtn{
+  margin-top: 1.6rem;
+}
+.placeCard{
+  width: 100%;
+    border: 1px solid #3880ff30;
+    background: white;
+    box-shadow: blanchedalmond 6px;
+    box-shadow: 4px 4px 5px #c9e0ec;
+}
+.businessOpen{
+  color: rgb(0, 128, 0);
+}
+
+.businessClosed{
+  color: rgb(255, 0, 0)
+}
+
+.margin-0{
+  margin: 0;
+}
+.ratingLabel{
+  font-size: 15px;
+  font-weight: 600;
+}
+.loader{
+  top:50%;
+  left:50%;
+  position: fixed;
+  transform: translate(-50%, -50%);
+}
+.navigateBtnOuter{
+  position: absolute;
+  right: 7px;
+  bottom: -5px;
+}
+.cardBottom{
+  display: flex;
+  position: relative;
+}
+
+.imageCont{
+  position: relative;
+}
+
+.imageCont img {
+  width: 8rem;
+    position: absolute;
+    top: 12rem;
+    left: 6.6rem;
+}
